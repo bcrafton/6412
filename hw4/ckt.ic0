@@ -1,0 +1,20 @@
+* "simulator" "HSPICE" 
+* "version" "M-2017.03-1 linux64"
+* "format" "HSP"
+* "rundate" "13:39:27 02/20/2019 "
+* "netlist" "ckt.sp "
+* "runtitle" ""
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ va = 752.1298m       
++ vb =   0.            
++ vc =   1.5997        
++ vd =   9.4646n       
++ vdd =   2.0000        
++ ve =   0.            
++ vf =   1.5997        
+***   END: Saved Operating Point ***                     
